@@ -1,0 +1,32 @@
+body {
+  background-image:url(clouds.jpg);
+}
+
+.header {
+  color:red;
+  text-align: center;
+}
+
+.header {
+  color:purple;
+  text-align: center;
+}
+
+#sweet-header {
+  color:blue;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+img {
+   padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+}
+
+/* Comment: The more specific style code will always dominate
+ a less specific code. If there are two conflicting codes with the same
+  level of specificity, the last rule always wins */
